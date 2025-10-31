@@ -1,0 +1,9 @@
+blib/*
+t/*/*
+MYMETA.json
+MYMETA.yml
+Makefile
+pm_to_blib
+Module-Signature-*
+.build
+Release*
